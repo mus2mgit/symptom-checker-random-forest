@@ -26,6 +26,8 @@ python -m spacy download en_core_web_md
 
 ## **Running the script**
 
+**Note: running the script trains the model everytime, if you want to use it you need to separate the model into another file, train it and save it to your disk. When you want to use that model you can then load it from a different file instead of training everytime.**
+
 To run the script, open a terminal and navigate to the directory where the script is saved. Then, run the following command:
 
 ```
