@@ -73,3 +73,6 @@ In the sixth section, the script extracts the column names from the testing data
 In the seventh section, the script takes a command-line argument and uses it as input text. It then extracts the symptoms from the text and stores them in the **`symptoms`** variable. It then generates a feature array based on the **`symptoms`** and the **`column_names`** using the **`mark_columns`** function.
 
 Finally, in the eighth section, the script makes predictions on the generated feature array using the trained model and prints out the predictions.
+
+## **Credits**
+Data set: https://www.kaggle.com/datasets/rabisingh/symptom-checker?resource=download
